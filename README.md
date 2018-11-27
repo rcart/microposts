@@ -1,41 +1,7 @@
-# Babel Webpack Starter
+# Microposts App
+This a complete local CRUD App. It uses the json-server npm library to serve the end points to handle the CRUD operations.
 
-A starter pack to build JavaScript applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.
-
-### Version
-1.1.0
-
-## Usage
-
-### Installation
-
-Install the dependencies
-
-```sh
-$ npm install
-```
-
-### Serve
-To serve in the browser  - Runs webpack-dev-server
-
-```sh
-$ npm start
-```
-
-### Build
-Compile and build
-
-```sh
-$ npm run build
-```
-
-## More Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### License
-
-This project is licensed under the MIT License
+# TODO
+* Fix this incomplete README
+* Review code and improve it
+* Migrate to a clean git repo since this was cloned from a boilerplate
